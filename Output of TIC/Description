@@ -5,12 +5,15 @@ When the code runs, this login page will open.
 
 # Home Page #
 After logging in successfully, the "Home page" will open.
-In the Home page, there will be two options in the order of "SERIES" & "MOVIES". You can select whichever you want.
+On the Home page, there will be two options in the order of "SERIES" & "MOVIES". You can select whichever you want.
 
-# Movie Page &  #
-If the 'Movies' button is clicked, the movies page will open.
-It contains three movies and their respective Wikipedia websites.
+# Movie Page #
+If the 'Movies' button is clicked, the Movies page will open.
+It contains three Movies and their respective Wikipedia websites.
 
+# Series Page #
+If the 'Series' button is clicked, the Series page will open.
+It contains three Series and their respective Wikipedia websites.
 
 
 
